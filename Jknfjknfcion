@@ -362,3 +362,8 @@ end)
 aSection:NewButton("Chill/Sleep FE", "needs pal hair", function()
     loadstring(game:HttpGet(('https://pastebin.com/raw/bNvutdLc'),true))()
 end)
+-----------------------------------------FE------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+feSection:NewButton("BTOOLS (Not FE)", "idk why i put it here", function()
+    loadstring(game:GetObjects("rbxassetid://6695644299")[1].Source)()
+end)
+
